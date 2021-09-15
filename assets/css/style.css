@@ -78,8 +78,8 @@ button {
   display: block;
   border: none;
   margin: 0 auto;
-  background-color: #000000;
-  color: #fff;
+  background-color: #fff;
+  color: #000000;
   width: 287px;
   height: 55px;
 }
